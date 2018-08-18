@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\bin\Debug\StdioHeadlines.exe.config
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\bin\Debug\StdioHeadlines.exe
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\bin\Debug\StdioHeadlines.pdb
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\obj\Debug\StdioHeadlines.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\obj\Debug\StdioHeadlines.Properties.Resources.resources
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\obj\Debug\StdioHeadlines.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\obj\Debug\StdioHeadlines.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\obj\Debug\StdioHeadlines.exe
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\obj\Debug\StdioHeadlines.pdb
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\obj\Debug\StdioHeadlines.FrmMain.resources
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\obj\Debug\StdioHeadlines.csproj.CopyComplete
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Administrator\source\repos\StdioHeadlines\StdioHeadlines\bin\Debug\HtmlAgilityPack.xml
